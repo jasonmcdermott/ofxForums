@@ -1,0 +1,29 @@
+<controls>
+    <SliderInt_Number_of_Sides>
+        <name>Number of Sides</name>
+        <value>60</value>
+    </SliderInt_Number_of_Sides>
+    <SliderInt_Shape_Type>
+        <name>Shape Type</name>
+        <value>1</value>
+    </SliderInt_Shape_Type>
+    <SliderFloat_Thickness>
+        <name>Thickness</name>
+        <value>1.400001526</value>
+    </SliderFloat_Thickness>
+    <SliderFloat_Diameter>
+        <name>Diameter</name>
+        <value>51.489997864</value>
+    </SliderFloat_Diameter>
+    <SliderFloat_Blur>
+        <name>Blur</name>
+        <value>0.949999988</value>
+    </SliderFloat_Blur>
+    <ColorPicker_color>
+        <name>color</name>
+        <values_0>0.545000017</values_0>
+        <values_1>0.000000000</values_1>
+        <values_2>0.990000010</values_2>
+        <values_3>0.469999999</values_3>
+    </ColorPicker_color>
+</controls>

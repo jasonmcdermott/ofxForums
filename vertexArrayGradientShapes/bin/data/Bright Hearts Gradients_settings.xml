@@ -1,0 +1,18 @@
+<controls>
+    <ComboBox_shapeType>
+        <name>shapeType</name>
+        <value>1</value>
+    </ComboBox_shapeType>
+    <SliderFloat_Blur>
+        <name>Blur</name>
+        <value>64.000000000</value>
+    </SliderFloat_Blur>
+    <SliderInt_Number_of_Sides>
+        <name>Number of Sides</name>
+        <value>8</value>
+    </SliderInt_Number_of_Sides>
+    <SliderFloat_Thickness>
+        <name>Thickness</name>
+        <value>-29.000000000</value>
+    </SliderFloat_Thickness>
+</controls>

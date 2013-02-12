@@ -1,0 +1,61 @@
+<controls>
+    <Toggle_Draw_Bounds>
+        <name>Draw Bounds</name>
+        <value>0</value>
+    </Toggle_Draw_Bounds>
+    <Toggle_Draw_Bodies>
+        <name>Draw Bodies</name>
+        <value>0</value>
+    </Toggle_Draw_Bodies>
+    <ColorPicker_backgroundColor>
+        <name>backgroundColor</name>
+        <values_0>0.050000001</values_0>
+        <values_1>0.104999997</values_1>
+        <values_2>0.055000000</values_2>
+        <values_3>0.354999989</values_3>
+    </ColorPicker_backgroundColor>
+    <SliderFloat_Camera_Position_X>
+        <name>Camera Position X</name>
+        <value>0.000000000</value>
+    </SliderFloat_Camera_Position_X>
+    <SliderFloat_Camera_Position_Y>
+        <name>Camera Position Y</name>
+        <value>0.000000000</value>
+    </SliderFloat_Camera_Position_Y>
+    <SliderFloat_Camera_Position_Z>
+        <name>Camera Position Z</name>
+        <value>0.000000000</value>
+    </SliderFloat_Camera_Position_Z>
+    <SliderFloat_outerBounds>
+        <name>outerBounds</name>
+        <value>90.019996643</value>
+    </SliderFloat_outerBounds>
+    <SliderFloat_innerBounds>
+        <name>innerBounds</name>
+        <value>5.000000000</value>
+    </SliderFloat_innerBounds>
+    <SliderFloat_innerBoundForce>
+        <name>innerBoundForce</name>
+        <value>0.100000001</value>
+    </SliderFloat_innerBoundForce>
+    <SliderFloat_outerBoundForce>
+        <name>outerBoundForce</name>
+        <value>31.038002014</value>
+    </SliderFloat_outerBoundForce>
+    <Toggle_Blending>
+        <name>Blending</name>
+        <value>1</value>
+    </Toggle_Blending>
+    <Toggle_Depth>
+        <name>Depth</name>
+        <value>0</value>
+    </Toggle_Depth>
+    <ComboBox_BlendMode>
+        <name>BlendMode</name>
+        <value>0</value>
+    </ComboBox_BlendMode>
+    <ComboBox_RenderMode>
+        <name>RenderMode</name>
+        <value>9</value>
+    </ComboBox_RenderMode>
+</controls>
