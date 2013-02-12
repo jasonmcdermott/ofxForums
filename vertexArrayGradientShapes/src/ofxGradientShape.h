@@ -52,14 +52,11 @@ public:
         float angle;
         float angleSize =  2*PI/ns_;
         
-        //        float Range = abs(opaque-transp);
         
         if (opaque_ < transp_) {
             middleRadius = opaque_ - ((transp_-opaque_)+blur_);
-            //            middleradius = ofMap(blur_,0,1,opaque,transp);
         } else {
             middleRadius = opaque_ - ((transp_-opaque_)+blur_);
-            //            middleradius = ofMap(blur_,0,1,transp,opaque);
         }
         
         middleRadius = (opaque_ + transp_)/2;

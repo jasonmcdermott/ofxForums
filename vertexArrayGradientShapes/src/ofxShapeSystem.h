@@ -9,7 +9,6 @@ public:
     int shapeCount;
     ofFloatColor	color, bgColor;
 
-    // BRIGHT HEARTS GRADIENTS
     int BHGShapeType, BHGNumSides;
     float BHGBlur, BHGThickness, BHGDiameter;
     
